@@ -1,4 +1,4 @@
 ---
 permalink: /404.html
 ---
-<meta http-equiv="refresh" content="0; url=https://acewind.com/">
+<meta http-equiv="refresh" content="1; url=https://acewind.com/">
