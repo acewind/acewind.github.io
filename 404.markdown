@@ -1,0 +1,9 @@
+---
+permalink: /404.html
+layout: default
+---
+<div class="well">
+	<h2>
+		Not Found 
+	</h2>
+</div>
