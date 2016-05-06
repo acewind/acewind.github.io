@@ -3,4 +3,4 @@ permalink: /404.html
 ---
 <script>
 window.location="https://acewind.com"
-<script>
+</script>
